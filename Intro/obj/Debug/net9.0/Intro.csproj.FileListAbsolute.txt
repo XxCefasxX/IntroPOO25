@@ -1,0 +1,14 @@
+D:\UNIDEP\POO\Proyectos\Intro\Intro\bin\Debug\net9.0\Intro.exe
+D:\UNIDEP\POO\Proyectos\Intro\Intro\bin\Debug\net9.0\Intro.deps.json
+D:\UNIDEP\POO\Proyectos\Intro\Intro\bin\Debug\net9.0\Intro.runtimeconfig.json
+D:\UNIDEP\POO\Proyectos\Intro\Intro\bin\Debug\net9.0\Intro.dll
+D:\UNIDEP\POO\Proyectos\Intro\Intro\bin\Debug\net9.0\Intro.pdb
+D:\UNIDEP\POO\Proyectos\Intro\Intro\obj\Debug\net9.0\Intro.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIDEP\POO\Proyectos\Intro\Intro\obj\Debug\net9.0\Intro.AssemblyInfoInputs.cache
+D:\UNIDEP\POO\Proyectos\Intro\Intro\obj\Debug\net9.0\Intro.AssemblyInfo.cs
+D:\UNIDEP\POO\Proyectos\Intro\Intro\obj\Debug\net9.0\Intro.csproj.CoreCompileInputs.cache
+D:\UNIDEP\POO\Proyectos\Intro\Intro\obj\Debug\net9.0\Intro.dll
+D:\UNIDEP\POO\Proyectos\Intro\Intro\obj\Debug\net9.0\refint\Intro.dll
+D:\UNIDEP\POO\Proyectos\Intro\Intro\obj\Debug\net9.0\Intro.pdb
+D:\UNIDEP\POO\Proyectos\Intro\Intro\obj\Debug\net9.0\Intro.genruntimeconfig.cache
+D:\UNIDEP\POO\Proyectos\Intro\Intro\obj\Debug\net9.0\ref\Intro.dll
