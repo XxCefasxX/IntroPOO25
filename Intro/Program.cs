@@ -1,5 +1,4 @@
-﻿using Intro;
-
+﻿/*
 Calculadora calc = new Calculadora();
 
 Console.WriteLine("Ingrese el numero 1:");
@@ -17,3 +16,23 @@ Console.WriteLine($"El total de la suma es: {totalsuma}");
 Console.WriteLine($"El total de la resta es: {totalresta}");
 Console.WriteLine($"El total de la multiplicacion es: {totalmulti}");
 Console.WriteLine($"El total de la division es: {totaldivi}");
+*/
+
+/*
+Console.WriteLine("Ingresa tu edad:");
+int edad = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine($"La persuna es un: {Edades.ValidaEdad(edad)}");
+*/
+
+using Intro;
+
+Console.WriteLine("Ingresa un Numero: ");
+int numero= Convert.ToInt32(Console.ReadLine());
+if (Numeros.EsPar(numero))
+{
+    Console.WriteLine("El numero es par");
+}
+else
+{
+    Console.WriteLine("El numero es impar");
+}
