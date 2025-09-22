@@ -24,15 +24,57 @@ int edad = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine($"La persuna es un: {Edades.ValidaEdad(edad)}");
 */
 
-using Intro;
-
+/*
 Console.WriteLine("Ingresa un Numero: ");
 int numero= Convert.ToInt32(Console.ReadLine());
-if (Numeros.EsPar(numero))
+Console.WriteLine($"El factorial del numero es {Numeros.Factorial(numero)}");
+*/
+
+
+using Intro;
+
+int[] arreglonumeros = new int[10];
+string[] listatexto = {"d","s","dsds"};
+bool[] listabool=new bool[5];
+arreglonumeros[0] = 5;
+arreglonumeros[1] = 3;
+arreglonumeros[2] = 8;
+arreglonumeros[3] = 7;
+arreglonumeros[4] = 17;
+arreglonumeros[5] = 19;
+arreglonumeros[5] = 10;
+arreglonumeros[9] = 20;
+
+
+
+List<int> listaint = new List<int>();
+listaint.Add(2);
+listaint.Add(23);
+listaint.Add(6);
+
+for(int i = 0; i < listaint.Count; i++)
 {
-    Console.WriteLine("El numero es par");
+    Console.WriteLine(listaint[i]);
 }
-else
-{
-    Console.WriteLine("El numero es impar");
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
