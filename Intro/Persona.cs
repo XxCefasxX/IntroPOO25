@@ -23,11 +23,11 @@ namespace Intro
                 Apellido = apellido;
                 Nacimiento = nacimiento;
 
-                //Juan
+                //Juan-Ricardo
                 TimeSpan ts = DateTime.Now - Nacimiento;//difrencia de dias entre 2 fechas
                 Edad = Convert.ToInt32(Math.Floor (ts.TotalDays / 365.25));
 
-                //Kall-el
+                //Kall el - David
                 //Edad = DateTime.Now.Year - nacimiento.Year;
                 //if (DateTime.Now.Month < Nacimiento.Month || 
                 //    (DateTime.Now.Month==Nacimiento.Month && DateTime.Now.Day<Nacimiento.Day))

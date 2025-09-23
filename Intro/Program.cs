@@ -1,4 +1,6 @@
-﻿/*
+﻿using Intro;
+
+/*
 Calculadora calc = new Calculadora();
 
 Console.WriteLine("Ingrese el numero 1:");
@@ -72,15 +74,14 @@ Console.WriteLine($"El factorial del numero es {Numeros.Factorial(numero)}");
 
 //}
 
+//
 
-using Intro;
-DateTime nacimiento = Convert.ToDateTime("10/11/1976");
-Persona persona = new Persona("Juan","Perez",nacimiento);
-Console.WriteLine(persona);
 
-//DateTime nacimiento2 = Convert.ToDateTime("10/9/1976");
-//Persona persona2 = new Persona("Juan", "Perez", nacimiento2);
-//Console.WriteLine(persona2.Edad);
+//Actividad 23-08-2025
+//preguntar datos de personas y agruparlos por categoria de edad
+
+
+
 
 
 
