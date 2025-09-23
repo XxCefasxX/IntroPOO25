@@ -31,33 +31,56 @@ Console.WriteLine($"El factorial del numero es {Numeros.Factorial(numero)}");
 */
 
 
+//using Intro;
+
+//int[] arreglonumeros = new int[10];
+//string[] listatexto = {"d","s","dsds"};
+//bool[] listabool=new bool[5];
+//arreglonumeros[0] = 5;
+//arreglonumeros[1] = 3;
+//arreglonumeros[2] = 8;
+//arreglonumeros[3] = 7;
+//arreglonumeros[4] = 17;
+//arreglonumeros[5] = 19;
+//arreglonumeros[5] = 10;
+//arreglonumeros[9] = 20;
+
+
+
+//List<int> listaint = new List<int>();
+//listaint.Add(2);
+//listaint.Add(23);
+//listaint.Add(6);
+
+//for(int i = 0; i < listaint.Count; i++)
+//{
+//    Console.WriteLine(listaint[i]);
+//}
+
+//List<int> lista = new List<int>();
+//Console.WriteLine("Cuantos numeros quiere?");
+//int n = Convert.ToInt32(Console.ReadLine());
+//for (int i = 0; i < n; i++)
+//{
+//    Console.WriteLine("Ingresa un numero");
+//    int num= Convert.ToInt32(Console.ReadLine());
+//    lista.Add(num);
+//}
+//for(int i = 0; i < lista.Count; i++)
+//{
+//    int numero = lista[i];
+
+//}
+
+
 using Intro;
+DateTime nacimiento = Convert.ToDateTime("10/11/1976");
+Persona persona = new Persona("Juan","Perez",nacimiento);
+Console.WriteLine(persona);
 
-int[] arreglonumeros = new int[10];
-string[] listatexto = {"d","s","dsds"};
-bool[] listabool=new bool[5];
-arreglonumeros[0] = 5;
-arreglonumeros[1] = 3;
-arreglonumeros[2] = 8;
-arreglonumeros[3] = 7;
-arreglonumeros[4] = 17;
-arreglonumeros[5] = 19;
-arreglonumeros[5] = 10;
-arreglonumeros[9] = 20;
-
-
-
-List<int> listaint = new List<int>();
-listaint.Add(2);
-listaint.Add(23);
-listaint.Add(6);
-
-for(int i = 0; i < listaint.Count; i++)
-{
-    Console.WriteLine(listaint[i]);
-}
-
-
+//DateTime nacimiento2 = Convert.ToDateTime("10/9/1976");
+//Persona persona2 = new Persona("Juan", "Perez", nacimiento2);
+//Console.WriteLine(persona2.Edad);
 
 
 
